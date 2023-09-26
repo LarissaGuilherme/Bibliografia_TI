@@ -1,0 +1,58 @@
+31/05/2023
+
+
+Testes, cada etapa do desenvolvimento tem seu nível de teste, que tem seu objetivo, e os QA participam de todas as etapas e processos.
+
+Conceito 3C: cartçao, conversação e confirmação.
+
+Quem testa tem perspectiva diferente do cliente, PO e DEVSs
+
+Atividades:
+
+analisar  detalhar as histórias, determinar testabilidade antes mesmo de desenvoler, criar testes de aceite, criar tarefas para testes, estimar esforço, identificar aspectos funcionais a serem avaliados e partcipar do processo de automação e detalhar a abordagem de teste.
+
+----------------------------------------------------------
+
+Testes nas abordagens ágeis.
+
+Esta relacionada ao ciclo todo de desenvolvimento, adaptação é palavra -chave
+
+testes automatizados, plano de testes, análise de risco, evidências de testes manuais e relatórios de defeitos
+
+teste de unidade,de aceite, com verificação e validação
+
+Uso de entrega contínua + automação de testes.
+
+Status de testes no modelo ágil:
+Também é atualizado todos os dias e o que foi e será feito
+
+----------------------------------------------
+
+MÉTODOS DE TESTES NO MUNDO ÁGIL:
+
+TDD - Desenvolvimento orientado a teste - 
+
+Requisição> escreve teste >  teste falha > escreva o código até que todos passem > refatoração > limpar o código > iteração.
+
+As vezes é utópico, uma documentação viva, garante que o softw continue operando caso jaha alguma alteração de código em outra parte relacionada ou não.
+
+
+ATDD -  Desenvolvimento orientado a teste de aceite
+BDD - Desenvolvimento orientado a comportamento 
+
+Quadrante de testes ágeis - 
+
+testes de cmponentes, unidade, manual, ou automatizado.
+
+DEVOPS - é uma metodologia, para aintegração dos sistemas de testes e desenvolvimento.
+
+----------------------------------
+
+
+PRATICAS UTEIS:
+
+Testes assistidos, incrementais e mapa mental(estratégias, cenários e dados)
+
+Certificações para testes ágeis:
+
+CFTL - AT e CTFL - ATT

@@ -1,0 +1,118 @@
+30/05/23 - 14:45
+
+Processos de Software-
+
+Definindo processo, fluxo e padrões de software:
+
+O desenvolvimento de Sftw, é um processo de aprendizado social, iterativo no qual a própria ferramenta em evoluçaõ serve como meio de comunicação.
+-----------------------------------------------------------------------------------
+O que é o Processo de Sftw?
+
+Metodologias para as atividades, ações e tarefas necessárias para desenvolver o Sftw, como um roteiro.
+
+Todos são direta ou indiretamente responsáveis, deve gerar estabilidade, controle e organização dentro do contextp, e os processos são adaptáveis.
+----------------------------------------------------------------------------------
+Principais atividades do processo:
+
+-Pressman: Comunicação, planejamento, modelagem, contrução e entrega.
+
+-Sommerville: especificação, projeto e implementação, validação e evolução.
+----------------------------------------------------------------------------------------------
+
+Fluxo de processo: organização dos processos e suas relações.
+
+Pode ser sequencial, iterativo(com feedback entre as etapas), ou evolucionário(circular que entregará incrementos), ou paralelo(se sobrepondo com outras etapas do processo e cada processo é contituído de tarefas).
+
+Fluxo de processo: Padrões de processo - templates que sugerem soluções para algum problema de processo, tendo abordagens de avaliação e aperfeiçoamento(SCAMPI, CBA IPI, SPICE, ISSO 900:2000).
+
+----------------------------------------------------------------------------------------------
+MODELOS TRADICIONAIS
+
+Modelo Prescritivo:
+
+Também conehcidos como modelo clássico, com foco na ordem e consistência do processo e prescrevem contunjo de elementos, de processoe  fluxos, ou seja, um roteiro sequencial.
+
+M. Cascata-
+
+Comunicação, planejamento, modelagem, contrução e entrega, linear, um começa outro termina.
+
+Exibe bastante documentação, o teste e validação ocorre só no final, é bom para requisitos bem compreenfidos, definidos e estáveis.
+
+M. V-
+
+Os estágios são os mesmos, mas cada etapa tem um nível de verificação e teste.
+
+Desvantagens: Projeto reias não seguem fluxos seuqencias, e não lidam com adaptação de mudanças, longo tempo pra visualizar a primeira versão do sftw, e gera estados de bloqueio para a equipe.
+
+
+Modelo Prescritivo: Modelos Incremental, Iterativo e Concorrente-
+
+Incremental -  com requisitos bem definidos, mas não refinados, vai entregando pequenos pedaços e pode-se utilizar prototipagem, com pequenos projetos
+
+Evolucionário - um sftw que se desenvolve com crescimento e adaptação constante e que é grande:
+
+2 tipos:
+
+Prototipação - útil para refinar requisitos, validar a eficiência, com feedback como cliente, pode ser descartável ou podem evoluir.
+
+Desvantagens: a equipe pode se acomodar com o "funcional"
+
+espiral - prototipação + cascata, incremental com foco em diminuir riscos
+---
+
+Modelo concorrente:
+
+Atitivdades podem ocorrer de forma concorrente de qualquer processo.
+-----------------------------------------------------------------------------------------
+
+MODELOS ESPECIALIZADOS - 
+
+Basedo em componentes, blibliotecas ou módulos: com interfaces definidas para serem integradas ao stwr -> COTS, vai se encaixando como peças, é evolucionário e tem foco em reutilização, reduz tempo de desenvolvimento e custos
+
+Métodos formais: feita com base em notação matemática, auxiliando no encontro de descobertas de ambiguidades ou inconsistências, caro, completo e exige formação e treinamento, porém é interessante para sistemas críticos.
+
+Orientados a aspectos: paradigma que oferece abordagem metodológica para definir aspectos que são pontos de interesse que se propagam, um interesse geral do sistema.
+
+----------------------------------------------------------------------------------------------
+
+PROCESSO UNIFICADO-
+
+Necessidade de um processo dirigido a casos de uso, centrado, iterativo e incremental -> UML.
+
+Lida de formas diferentes com as etapas: 
+
+Concepção - identificação, UML e planejamento.
+Elaboração - refinamento e expansão de casos de uso, ampliação da repesentação estrutural.
+Construção - desenvolvimento e testes com base na modelação.
+Transição - entrega com teste beta para recebimento de feeedbacks, e o incremento torna-se a versão uitizável do sftw.
+Produção - entrega com monitoramento, suporte e relatórios de defeitos e mudanças.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

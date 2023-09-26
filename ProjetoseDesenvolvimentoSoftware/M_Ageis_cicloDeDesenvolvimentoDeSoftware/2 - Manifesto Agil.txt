@@ -1,0 +1,26 @@
+30/05/23 - 16:24
+
+O Manifesto Ágil, contramão dos métodos pesados, já utilizamvam os métodos leves e se reuniram em UTAH em 2001 e chegaram ao consenso de métodos e práticas para o desenvolvimento de software.
+
+4 pilares:
+
+- Individuos e interações + que processos e ferramentas.
+- Sftw em funcionamento + que documentação abrangente
+- Colaboração com o cliente + que negociações de contratos
+- Respodner a mudanças + que seguir um plano
+
+12 princípios:
+
+-------------------------------
+
+O que siginifica ser ágil?
+
+É ter um cultura de agilidade
+
+Ser cada um condutor de agilidade, adaptação + comunicação + auto-organização.
+
+A adaptação auxilia na diminuição de custos por alterações
+
+A motivação é a imprevisibilidade.
+
+---------------------------------------------------------------------------------------------------

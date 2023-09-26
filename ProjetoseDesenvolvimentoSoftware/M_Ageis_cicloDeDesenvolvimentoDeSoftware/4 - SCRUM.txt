@@ -1,0 +1,88 @@
+31/05/23 - SCRUM
+
+O nome vem de uma ação de hugby, onde os jogadores se juntam com a cabeça abaixada e se empurram para obter a posse de bola.
+
+Para obter sucesso a equipe precisa estar unida e se gerenciar.
+
+* SCRUM GUIDE-
+
+Framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptatvias para problemas complexos.
+
+Baseados no epirismo e lean thinking, evitar desperdício.
+
+Iterativo e incremental e possuem eve tos formais para suas etapas.
+
+-----
+Valores:
+
+foco, respeito, comunicação, coragem, abertura e comprometimento.
+
+PILARES: 
+
+Transparência, adaptação e inspeção
+-----------------------------
+
+PROCESSO:
+
+Visão do produto> PO quebra a visão em histórias do usuário > Product Backlog> Planning(reunião do time o que eles conseguirão entregar e o que será preciso)> srpint de 2 a 4 semanas > dailys> produto entregue> sprint reviewe > sprint retrospect.
+
+------------------
+
+SCRUM TEAM:
+
+Não há hierarquia,e todos devem saber sue papel:
+
+SCRUM master PO e DEVs.
+
+Devem ser multifunconais e autogerenciaveis e responsáveis pelas atividades relacionadas ao produto.
+
+--------------
+PO - Maximiza o valor do produto, gerencia o P.backlog, garantir que o P.backlog seja transparente, visível e compreensível.
+
+DEV- b. da sprint, alinhar os pontos, adaptar a sprint a meta e se auto responsabilizar.
+
+SCRUM master-
+
+Manter a eficácia da metodologia, líder que ser a organização, remover impedimentos, auxiliar o PO no g, do backlog e treina membros para se manterem auto gerenciaveis.
+-------------------------------------------------------------------------------------
+
+EVENTOS:
+
+A Sprint:
+
+eventos de duração fixa com objetivo de gerar o incremento.
+Splanning + daily + S.Review e S. Retrospective.
+
+Somente PO pode cancelar a sprint, refinamento e qualidade
+
+A Planning- 
+
+Inicia a sprint e define o que será feito.
+
+Pq é importante?
+o que e como será feito.
+
+Define o Sprint Backlog.
+
+A Daily- 
+Alinhamento da equipe sobre o que foi feito e o que será feito, impedimentos e etc.
+
+A S.Review- 
+
+Inspecionar resiltadoe, ajustar backlog com foco na entrega.
+
+ A S. Retrospective-
+
+O que funcionou?
+COMO foi resolvido:
+
+E se conclui a Sprint, em todo projeto temos os ARTEFATOS, que são as documentações geráveis e visualizáveis.
+
+---------------------------------------------------------------------------------------
+
+Outros modelos Ageis-
+
+DSDM- foca na construçaõ de sistema com prazo curto(Principio de Pareto- 80% do feito com 20% de tempo), é iterativo e incremental, seu mantendor é o Agile Business Consortium e pode ser combinado com o XP
+
+Ágil e Kanban
+

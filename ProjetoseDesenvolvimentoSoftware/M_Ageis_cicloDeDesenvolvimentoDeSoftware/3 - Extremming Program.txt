@@ -1,0 +1,37 @@
+31/05/23 - XP
+
+1980- Kent Beck, tem sua varição para grandes organizações IXP.
+
+Processo- foco no paradigma POO, é mais focado no desenvolvimento do código do que gerenciamento de projeto.
+
+PLAN:
+Foco na comunicação, no ouvir, a partir do planning poker, cria-se as histórios de usuário e os membros estimam com base em semanas de desenvolvimento ideal máximo de 3 semanas.
+
+Se trata de ciclo, não de sprint.
+
+Flexibilização para escrita de novas histórias, e os clientes e desenvolvedores trabalha lado a lado, medindo a velocidade de acordo com o número de histórias entregues.
+-------------
+PROJECT:
+
+Princípio KISS(kepp it simples, stupid!);
+CRC - classe-responsabilidade-colaborador, como serão construídos as classes, atributos, métodos e classes associadas;
+Protótipos -  solução pontual a partir de protótipos.
+
+-------
+
+CODIFICAÇÃO:
+
+Uso de TDD;
+Refatoração;
+Programação em pares, uma programa a outra revisa.
+-------
+
+TESTES:
+
+TDD, integração contínua, testes de aceite(histórias do usuário).
+
+-----------------
+
+VALORES:
+
+Simplicidade, respeito, comunicação, coragem e feedback
